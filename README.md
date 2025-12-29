@@ -14,4 +14,5 @@ A ferramenta estabelece uma conexão direta na porta **43** (padrão para o prot
 ## 📦 Instalação
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/hofuman/whois.git](https://github.com/hofuman/whois.git)
+   git clone https://github.com/hofuman/whois.git
+   ```
